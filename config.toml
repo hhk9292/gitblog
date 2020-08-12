@@ -1,5 +1,5 @@
 theme = "soho"
-baseURL = ""
+baseURL = "/"
 title = "Soho"
 languageCode = "en"
 enableInlineShortcodes = true
