@@ -1,5 +1,5 @@
 theme = "soho"
-baseURL = "hhk9292.github.io"
+baseURL = ""
 title = "Soho"
 languageCode = "en"
 enableInlineShortcodes = true
