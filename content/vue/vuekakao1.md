@@ -15,4 +15,4 @@ typora-root-url: ..
 
 ### 1. 카카오 로그인 프로세스
 
-![kakaologin_process](/vue/kakaologin_process.png)
+![kakaologin_process](/vue/images/kakaologin_process.png)
