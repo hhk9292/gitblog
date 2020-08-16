@@ -7,3 +7,8 @@ date: 2020-08-16T22:57:58+09:00
 
 [kakao developers](https://developers.kakao.com/docs/latest/ko/kakaologin/common)
 
+
+
+### 1. 카카오 로그인 프로세스
+
+![kakaologin_process](kakaologin_process.png)
