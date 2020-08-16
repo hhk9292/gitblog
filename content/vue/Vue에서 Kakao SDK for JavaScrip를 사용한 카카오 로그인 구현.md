@@ -1,6 +1,5 @@
 ---
 title: "Vue에서"
 date: 2020-08-16T22:57:58+09:00
-draft: true
 ---
 
