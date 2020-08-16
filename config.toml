@@ -38,10 +38,10 @@ customJs = ["js/blog.js"]
 [menu]
 
   [[menu.main]]
-  name = "Posts"
+  name = "Vue"
   weight = 100
-  identifier = "posts"
-  url = "/posts/"
+  identifier = "vue"
+  url = "/vue/"
 
   [[menu.main]]
   name = "About"
