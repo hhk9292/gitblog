@@ -412,5 +412,5 @@ methods: {
 }
 ```
 
-토큰을 잘 받아왔는지 `Kakao.Auth.setAccessToken(),Kakao.Auth.getAccessToken() `을 이용해 확인한다. 이제 다른 페이지에서 `Kakao.Auth.getAccessToken() `을 통해 토큰을 이용할 수 있다.
+토큰을 잘 받아왔는지 `this.$Kakao.Auth.setAccessToken(),this.$Kakao.Auth.getAccessToken() `을 이용해 확인한다. 이제 다른 페이지에서 `this.$Kakao.Auth.getAccessToken() `을 통해 토큰을 이용할 수 있다.
 
