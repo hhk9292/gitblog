@@ -296,13 +296,25 @@ $ npm i qs
 
 ```javascript
 // index.js
+
 const express = require('express');
 const axios = require('axios');
 const cors = require('cors');
+const dotenv = require('dotenv');
+const qs = require('qs');
 const app = express();
+
+
 
 // cors
 app.use(cors());
+
+// body-parser
+app.use(express.json()); 
+
+// env
+dotenv.config();
+
 const PORT = 3000;
 
 const welcome = function(req, res) {
