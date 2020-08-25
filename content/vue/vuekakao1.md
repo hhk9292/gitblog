@@ -426,3 +426,4 @@ methods: {
 
 토큰을 잘 받아왔는지 `this.$Kakao.Auth.setAccessToken(),this.$Kakao.Auth.getAccessToken() `을 이용해 확인한다. 이제 다른 페이지에서 `this.$Kakao.Auth.getAccessToken() `을 통해 토큰을 이용할 수 있다.
 
+[전체 코드](https://github.com/hhk9292/vue-js/tree/master/vue-kakao)
