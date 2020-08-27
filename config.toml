@@ -1,6 +1,6 @@
 theme = "soho"
 baseURL = "/"
-title = "myGitBlog"
+title = "KISS"
 languageCode = "en"
 enableInlineShortcodes = true
 
@@ -9,7 +9,7 @@ enableEmoji = true
 
 [params]
 author = "Author Name"
-description = "hhk9292"
+description = "Keep it simple, stupid"
 
 ## Set one of:
 # gravatar = "soho@example.com"
