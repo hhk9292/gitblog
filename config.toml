@@ -43,6 +43,12 @@ customJs = ["js/blog.js"]
   identifier = "vue"
   url = "/vue/"
 
+[[menu.main]]
+  name = "Algorithm"
+  weight = 100
+  identifier = "algorithm"
+  url = "/algorithm/"
+
   [[menu.main]]
   name = "About"
   identifier = "about"
