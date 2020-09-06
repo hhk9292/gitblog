@@ -1,5 +1,5 @@
 ---
-title: "2020 KAKAO BLIND 1 문자열 압축 Python"
+title: "2020 KAKAO BLIND 1 문자열 압축"
 date: 2020-09-06T18:55:07+09:00
 ---
 
