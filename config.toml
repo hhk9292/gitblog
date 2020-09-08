@@ -3,6 +3,7 @@ baseURL = "/"
 title = "KISS"
 languageCode = "en"
 enableInlineShortcodes = true
+pluralizelisttitles = false
 
 summarylength = 10
 enableEmoji = true
